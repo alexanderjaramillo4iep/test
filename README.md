@@ -1,2 +1,2 @@
 # test 1
-[volver](../tree/step1)
+[volver](../../tree/step1)
